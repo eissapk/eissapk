@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="https://eissa.xyz/olumjs/logo.png" alt="Olum logo">
+  <img width="100" src="https://olumjs.github.io/logo.png" alt="Olum logo">
 </p>
 
 <h1 align="center">
@@ -13,4 +13,4 @@
 </p>
 
 Front-End Engineer and Creator of Olumjs <br/>
-See [documentation](https://github.com/eissapk/olum/wiki)
+See [documentation](https://github.com/olumjs/olum/wiki)
