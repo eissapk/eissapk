@@ -13,4 +13,4 @@
 </p>
 
 Front-End Engineer and Creator of Olumjs <br/>
-See [documentation](https://github.com/olumjs/olum/wiki)
+See [documentation](https://olumjs.github.io/docs)
