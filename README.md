@@ -12,5 +12,5 @@
  <img src="https://img.shields.io/npm/l/olum" alt="npm">
 </p>
 
-Front-End Engineer and Creator of Olumjs <br/>
+Full-Stack Developer and Creator of Olumjs <br/>
 See [documentation](https://olumjs.github.io/docs)
