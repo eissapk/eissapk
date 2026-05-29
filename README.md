@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="https://olumjs.github.io/logo.png" alt="Olum logo">
+  <img width="100" src="https://github.com/olumjs.png" alt="Olum logo">
 </p>
 
 <h1 align="center">
