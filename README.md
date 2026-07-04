@@ -1,16 +1,7 @@
-<p align="center">
-  <img width="100" src="https://github.com/olumjs.png" alt="Olum logo">
-</p>
+# Hi, I'm Eissa Saber 👋
 
-<h1 align="center">
-  Olumjs
-</h1>
+Software Developer • Founder of **[Scrolla](https://scrolla.top)** • Creator of **[OlumJS](https://olumjs.top)**
 
-<p align="center">
- <a href="https://www.npmjs.com/package/olum" target="_blank"><img src="https://img.shields.io/npm/v/olum" alt="npm"></a>
- <img src="https://img.shields.io/npm/dm/olum" alt="npm">
- <img src="https://img.shields.io/npm/l/olum" alt="npm">
-</p>
+Building modern web technologies, open-source software, and tools developers love.
 
-Full-Stack Developer and Creator of Olumjs <br/>
-See [documentation](https://olumjs.github.io/docs)
+I also write about web development, review software, and share what I'm learning on my **[Blog](https://eissawebdev.top/blog)**.
