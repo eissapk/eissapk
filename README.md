@@ -4,4 +4,4 @@ Software Developer • Founder of **[Scrolla](https://scrolla.top)** • Creator
 
 Building modern web technologies, open-source software, and tools developers love.
 
-I also write about web development, review software, and share what I'm learning on my **[Blog](https://eissawebdev.top/blog)**.
+I also write about web development, review software, and share what I'm learning on my **[Blog](https://eissa.top/blog)**.
